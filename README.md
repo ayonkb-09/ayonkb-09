@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayon Biswas</h1>
 <h3 align="center">A passionate Web-developer from Bangladesh.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayonkb-09&label=Profile%20views&color=0e75b6&style=flat" alt="ayonkb-09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayonkb-09" alt="ayonkb-09" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 
 - 🌱 I’m currently learning **HTML, CSS, Tailwind, DaisyUi and Bootstrap.**
 
